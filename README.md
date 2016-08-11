@@ -1,2 +1,2 @@
 # Hello-World1
-Praytice_Repository_1
+Practice_Repository_1
